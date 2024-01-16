@@ -24,6 +24,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srchby&label=Profile%20views&color=161616&style=flat-square" alt="srchby" /> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srchby&show_icons=true&theme=dark&hide_border=true&locale=en" alt="srchby" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srchby&show_icons=true&theme=blue_navy&hide_border=true&locale=en" alt="srchby" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=srchby&show_icons=true&theme=dark&locale=en&hide_border=true&layout=compact" alt="srchby" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=srchby&show_icons=true&theme=blue_navy&locale=en&hide_border=true&layout=compact" alt="srchby" /></p>
