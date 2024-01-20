@@ -1,15 +1,15 @@
-<h3 align="center">Hi 👋, I'm srchby</h3>
 <h3 align="center">🤖 System Development Student at Porto Digital.</h3>
-
 
 <h1> </h1>
 
-- 🌱 I’m currently learning **Frameworks and Front-end Development**
+<h4>
+- 📚 I’m currently learning Frameworks and Front-end Development
+</h4>
 
 <h1> </h1>
 
 <h3 align="left">✨ Connect with me</h3>
-<p align="left">
+<p align="center">
 <a href="https://stackoverflow.com/users/22230339" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22230339" height="30" width="40" /></a>
 <a href="https://instagram.com/search.by" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="search.by" height="30" width="40" /></a>
 </p>
@@ -17,13 +17,34 @@
 <h1> </h1>
 
 <h3 align="left">💻 Languages and Tools</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,python,git" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,figma,ps,github,powershell" />
+  </a>
+</p>
+
 
 <h1> </h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=srchby&label=Profile%20views&color=161616&style=flat-square" alt="srchby" /> </p>
+<h3 align="left">📊 Stats</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srchby&show_icons=true&theme=blue_navy&hide_border=true&locale=en" alt="srchby" /></p>
+<div style="display: flex; flex-direction: row; align: center">
+    <img src="https://github-readme-stats.vercel.app/api?username=srchby&show_icons=true&theme=holi&border_color=59a1e0&border_radius=10&bg_color=00000000&locale=en" alt="srchby" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=srchby&show_icons=true&theme=holi&locale=en&border_radius=10&bg_color=00000000&border_color=59a1e0" alt="srchby" />
+</div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=srchby&show_icons=true&theme=blue_navy&locale=en&hide_border=true&layout=compact" alt="srchby" /></p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=srchby&label=Profile%20views&color=blue&style=for-the-badge" alt="srchby" />
+</div>
+
+<h1></h1>
+
+<div style="align: center; max-height: 20px">
+  <img src="https://www.britishmuseumshoponline.org/media/catalog/product/4/8/48502001_momoyogusa.jpg" />
+</div>
