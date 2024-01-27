@@ -3,7 +3,8 @@
 <h1> </h1>
 
 <h4>
-- 📚 I’m currently learning Frameworks and Front-end Development
+● 📚 I’m currently learning Frameworks and Front-end Development
+● 📩 Contact: leandrocordfarias@gmail.com
 </h4>
 
 <h1> </h1>
@@ -12,6 +13,7 @@
 <p align="center">
 <a href="https://stackoverflow.com/users/22230339" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22230339" height="30" width="40" /></a>
 <a href="https://instagram.com/search.by" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="search.by" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/leandro-cord-farias/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/LinkedIn.svg" alt="search.by" height="30" width="40" /></a>
 </p>
 
 <h1> </h1>
