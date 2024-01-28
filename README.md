@@ -36,9 +36,9 @@
 
 <h3 align="left">📊 Stats</h3>
 
-<div style="display: flex; flex-direction: row; align: center">
-    <img src="https://github-readme-stats.vercel.app/api?username=srchby&show_icons=true&theme=holi&border_color=59a1e0&border_radius=10&bg_color=00000000&locale=en" alt="srchby" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=srchby&show_icons=true&theme=holi&locale=en&border_radius=10&bg_color=00000000&border_color=59a1e0" alt="srchby" />
+<div align="center" style="margin-bottom:100px">
+    <img style="height:195px;" src="https://github-readme-stats.vercel.app/api?username=srchby&show_icons=true&theme=holi&border_color=59a1e0&border_radius=10&bg_color=00000000&locale=en" alt="srchby" />
+    <img style="height:195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=srchby&show_icons=true&theme=holi&locale=en&border_radius=10&bg_color=00000000&border_color=59a1e0&layout=compact" alt="srchby" />
 </div>
 
 <div align="center">
@@ -46,7 +46,3 @@
 </div>
 
 <h1></h1>
-
-<div style="align: center; max-height: 20px">
-  <img src="https://www.britishmuseumshoponline.org/media/catalog/product/4/8/48502001_momoyogusa.jpg" />
-</div>
