@@ -3,7 +3,7 @@
 <h1> </h1>
 
 <h4>
-● 📚 I’m currently learning Frameworks and Front-end Development
+● 📚 
 
 ● 📩 Contact: leandrocordfarias@gmail.com
 </h4>
@@ -12,9 +12,9 @@
 
 <h3 align="left">✨ Connect with me</h3>
 <p align="center">
-<a href="https://stackoverflow.com/users/22230339" target="blank"><img align="center" src="https://skillicons.dev/icons?i=stackoverflow" alt="22230339"/></a>
-<a href="https://instagram.com/search.by" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="search.by"/></a>
-<a href="https://www.linkedin.com/in/leandro-cord-farias/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="search.by"/></a>
+<a href="https://stackoverflow.com/users/22230339" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=stackoverflow" alt="22230339"/></a>
+<a href="https://instagram.com/search.by" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="search.by"/></a>
+<a href="https://www.linkedin.com/in/leandro-cord-farias/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="search.by"/></a>
 
 <h1> </h1>
 
