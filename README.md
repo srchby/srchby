@@ -5,7 +5,7 @@
 <h4>
 ● 📚 
 
-● 📩 Contact: leandrocordfarias@gmail.com
+● 📩 Contact: leandrocdefarias@proton.me
 </h4>
 
 <h1> </h1>
