@@ -3,8 +3,7 @@
 <h1> </h1>
 
 <h4>
-● 📚 
-
+● 📚 Studying Web development and Java
 ● 📩 Contact: leandrocdefarias@proton.me
 </h4>
 
@@ -23,12 +22,12 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,python,git" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,python,java,mysql,sqlite" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,figma,ps,github,powershell" />
+    <img src="https://skillicons.dev/icons?i=vscode,neovim,git,figma,linux" />
   </a>
 </p>
 
