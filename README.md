@@ -15,6 +15,7 @@
 <a href="https://stackoverflow.com/users/22230339" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=stackoverflow" alt="22230339"/></a>
 <a href="https://instagram.com/search.by" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="search.by"/></a>
 <a href="https://www.linkedin.com/in/leandrocdefarias/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="search.by"/></a>
+<a href="https://gitlab.com/srchby" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=gitlab"/></a>
 
 <h1> </h1>
 
