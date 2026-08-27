@@ -31,10 +31,8 @@
 
 <h2 align="center">Stats</h2>
 
-<div align="center" style="margin-bottom:100px">
-    <img style="height:195px;" src="https://github-readme-stats.vercel.app/api?username=1ulisses&show_icons=true&theme=holi&border_color=59a1e0&border_radius=10&bg_color=00000000&locale=en" alt="1ulisses" />
-    <img style="height:195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=1ulisses&show_icons=true&theme=holi&locale=en&border_radius=10&bg_color=00000000&border_color=59a1e0&layout=compact" alt="1ulisses" />
-</div>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=1ulisses&rank_icon=github&custom_title=1ulisses&show_icons=true&include_all_commits=true&disable_animations=true&theme=github_dark)](https://github-stats-extended.vercel.app/api?username=1ulisses&rank_icon=github&custom_title=1ulisses&show_icons=true&include_all_commits=true&disable_animations=true&theme=github_dark)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=1ulisses&langs_count=5&disable_animations=true&theme=github_dark)](https://github-stats-extended.vercel.app/api/top-langs?username=1ulisses&langs_count=5&disable_animations=true&theme=github_dark)
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=srchby&label=Profile%20views&color=blue&style=for-the-badge" alt="srchby" />
