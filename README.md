@@ -32,8 +32,8 @@
 <h2 align="center">Stats</h2>
 
 <div align="center" style="margin-bottom:100px">
-    <img style="height:195px;" src="https://github-readme-stats.vercel.app/api?username=srchby&show_icons=true&theme=holi&border_color=59a1e0&border_radius=10&bg_color=00000000&locale=en" alt="srchby" />
-    <img style="height:195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=srchby&show_icons=true&theme=holi&locale=en&border_radius=10&bg_color=00000000&border_color=59a1e0&layout=compact" alt="srchby" />
+    <img style="height:195px;" src="https://github-readme-stats.vercel.app/api?username=1ulisses&show_icons=true&theme=holi&border_color=59a1e0&border_radius=10&bg_color=00000000&locale=en" alt="1ulisses" />
+    <img style="height:195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=1ulisses&show_icons=true&theme=holi&locale=en&border_radius=10&bg_color=00000000&border_color=59a1e0&layout=compact" alt="1ulisses" />
 </div>
 
 <div align="center">
