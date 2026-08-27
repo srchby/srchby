@@ -1,6 +1,7 @@
-<h1 align="center"><code>srchby</code></h1>
-<h2 align="center">System Development</h2>
+<h1 align="center"><i>1ulisses</i></h1>
+<h2 align="center">About</h2>
 
+- Currently interested in <mark>Data Analysis</mark> and <mark>Spring Boot</mark></br>
 - Completed studies at Porto Digital </br>
 - Contact: leandrocdefarias@proton.me
 
